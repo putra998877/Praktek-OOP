@@ -11,7 +11,7 @@ Class Mobil{
 }
 // bagian main
 $ferari=new Mobil();
-$ferari->nama="xxx";
+$ferari->nama="xx";
 $ferari->merk"aaa";
 
 $ferari->getInfo();
